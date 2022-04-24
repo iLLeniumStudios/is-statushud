@@ -1,2 +1,2 @@
 # is-statushud
-NoPixel style Status Hud (Standalone / QBCore / ESX)
+NoPixel inspired Status Hud (Standalone / QBCore / ESX)
